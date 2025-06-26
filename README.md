@@ -29,4 +29,4 @@ This project was created and used for educational purposes during presentations 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/ViktorCiganovic-collab/react-fundamentals-demo.git
